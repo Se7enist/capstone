@@ -4,3 +4,7 @@ To start the system, enter streamlit+run+filename in the console.
 sf_accidents.csv stores historical data for the San Francisco area.
 kl_accident_monitor.py is the accident monitoring system for the Kuala Lumpur area, 
 and kl_accidents.csv stores historical data for the Kuala Lumpur area.
+
+
+california_accidents.csv and accident_severity_model.pkl in google drive,Because the file description exceeds the GitHub limit
+https://drive.google.com/drive/folders/1-YUAWj_8s23nJ67Dq1Nds7itxNfzvJNB?usp=sharing
